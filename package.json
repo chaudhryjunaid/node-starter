@@ -1,0 +1,23 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "An experiment to learn building node starters",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudhryjunaid/node-starter.git"
+  },
+  "keywords": [
+    "node.js",
+    "starter"
+  ],
+  "author": "Chaudhry Junaid Anwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaudhryjunaid/node-starter/issues"
+  },
+  "homepage": "https://github.com/chaudhryjunaid/node-starter#readme"
+}
